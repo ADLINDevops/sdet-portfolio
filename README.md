@@ -20,6 +20,9 @@ A production-grade test automation portfolio built to demonstrate SDET skills ac
 | **Total** | | | **16 ✅** |
 
 ---
+Screenshot of Actions:
+<img width="1326" height="332" alt="image" src="https://github.com/user-attachments/assets/b8575e41-85e7-40b4-b73b-853dbfb150e1" />
+
 
 ## 🛠 Tech Stack
 
